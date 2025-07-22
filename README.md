@@ -11,10 +11,18 @@
 
 ### 🛠 Technical Skills
 <p align="center">
-  <img src="html.png" height="50" alt="HTML5" />
-  <img src="JavaScript.png" height="50" alt="JavaScript" />
-  <img src="css.png" height="50" alt="Css3" />
-  <img src="vue.png" height="50" alt="Python" />
+  <img src="html.jpeg" height="50" alt="HTML5" />
+  <img src="JavaScript.jpeg" height="50" alt="JavaScript" />
+  <img src="css.jpeg" height="50" alt="Css3" />
+  <img src="vue.jpeg" height="50" alt="Python" />
+   <img src="node.jpeg" height="50" alt="Python" />
+  <img src="python.jpeg" height="50" alt="Python" />
+   <img src="MySQL.jpeg" height="50" alt="Python" />
+   <img src="react.jpeg" height="50" alt="Python" />
+   <img src="C++.jpeg" height="50" alt="Python" />
+   <img src="Angular.jpeg" height="50" alt="Python" />
+  <img src="Git.jpeg" height="50" alt="Python" />
+  <img src="GitHub.jpeg" height="50" alt="Python" />
 </p>
 
 - **Tools & Practices**: Git & GitHub, REST APIs, Responsive Design, Version Control
