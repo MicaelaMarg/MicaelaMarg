@@ -28,8 +28,26 @@
   <img src="GitHub.jpeg" height="50" alt="Python" />
 </p>
 
+## 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MicaelaMarg&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelaMarg&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=MicaelaMarg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
   <img src="Look!!-Photoroom.png" alt="Logo" height="90" />
@@ -47,8 +65,19 @@
   <li>🔹 I am committed to continuous learning and eager to contribute to collaborative development teams.</li>
 </ul>
 
+## 🎓 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Coderhouse-Full_Stack_Web_Dev-green?style=flat-square&logo=google-chrome" />
+  <img src="https://img.shields.io/badge/FreeCodeCamp-JavaScript_Essentials-blue?style=flat-square&logo=freecodecamp" />
+  <img src="https://img.shields.io/badge/Coursera-SQL_for_Data_Management-purple?style=flat-square&logo=postgresql" />
+</p>
+
+
+
 
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/micaela-margarita-mattiucci-/)
 - [Portfolio](https://micaelamattiucci.github.io)
+- 
