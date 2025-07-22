@@ -1,4 +1,4 @@
-<h1 align="center" > <img src="" alt="Logo" height="90" style="vertical-align: middle; margin-left: 10px;" />
+<h1 align="center" > <img src="nasa-Photoroom.png" alt="Logo" height="90" style="vertical-align: middle; margin-left: 10px;" />
   Hello, I'm Micaela Mattiucci
 </h1>
 
@@ -28,8 +28,6 @@
   <img src="GitHub.jpeg" height="50" alt="Python" />
 </p>
 
-- **Tools & Practices**: Git & GitHub, REST APIs, Responsive Design, Version Control
-- **Design Tools**: Figma (basic proficiency)
 
 ---
 
@@ -52,5 +50,5 @@
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/TU_USUARIO)
+- [LinkedIn](https://www.linkedin.com/in/micaela-margarita-mattiucci-/)
 - [Portfolio](https://micaelamattiucci.github.io)
