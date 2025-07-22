@@ -1,13 +1,15 @@
 ## Hi there 👋
 ![Tech Stack Banner](https://github.com/TU_USUARIO/TU_REPO/blob/main/banner.png)
-
+<img src="banner.png alt="Banner" style="width:100%" />
 <!--
 **MicaelaMarg/MicaelaMarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I### 🧰 Tech Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/TU_USUARIO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/TU_USUARIO)<img width="3780" height="1890" alt="banner" src="https://github.com/user-attachments/assets/9c304c81-f527-4fbf-b871-14644e14503f" />
+
+
  ### 🚀 Conocimientos
 
 - Python ![70%](https://progress-bar.dev/70/)
