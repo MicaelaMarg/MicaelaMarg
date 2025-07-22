@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Tech Stack Banner](https://github.com/MicaelaMarg/MicaelaMarg/banner.png)
-<img src="banner.png alt="Banner" style="width:100%" />
+img src="https://github.com/user-attachments/assets/9c304c81-f527-4fbf-b871-14644e14503f" alt="Banner Micaela Mattiucci" style="width:100%;" />
 <!--
 **MicaelaMarg/MicaelaMarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
