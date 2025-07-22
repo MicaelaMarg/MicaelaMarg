@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Tech Stack Banner](https://github.com/TU_USUARIO/TU_REPO/blob/main/banner.png)
+![Tech Stack Banner](https://github.com/MicaelaMarg/MicaelaMarg/banner.png)
 <img src="banner.png alt="Banner" style="width:100%" />
 <!--
 **MicaelaMarg/MicaelaMarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
