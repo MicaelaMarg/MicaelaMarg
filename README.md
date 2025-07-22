@@ -10,9 +10,13 @@
 ---
 
 ### 🛠 Technical Skills
+<p align="center">
+  <img src="html.png" height="50" alt="HTML5" />
+  <img src="JavaScript.png" height="50" alt="JavaScript" />
+  <img src="css.png" height="50" alt="Css3" />
+  <img src="vue.png" height="50" alt="Python" />
+</p>
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Vue.js (in progress)
-- **Backend**: Node.js (or Java, PHP, etc. — podés especificar), Express.js, SQL
 - **Tools & Practices**: Git & GitHub, REST APIs, Responsive Design, Version Control
 - **Design Tools**: Figma (basic proficiency)
 
